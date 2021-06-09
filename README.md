@@ -76,4 +76,8 @@ pip install -r requirements.txt
 jupyter notebook
 ```
 
+5. Download dataset
+
+# [Click here for data](http://mmlab.ie.cuhk.edu.hk/projects/CelebA.html)
+
 
